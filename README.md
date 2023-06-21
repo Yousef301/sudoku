@@ -1,1 +1,1 @@
-# Sudoku with it's solver
+# sudoku with multiple modes
